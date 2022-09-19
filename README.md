@@ -1,1 +1,1 @@
-# predict-class
+# Heroku-Demo
